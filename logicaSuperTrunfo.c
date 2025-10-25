@@ -3,6 +3,7 @@
 int main (){
 printf ("Desafio Lógica Super Trunfo!\n");
 
+    
     // ===============================
     // Definição das variáveis das cartas
     // ===============================
